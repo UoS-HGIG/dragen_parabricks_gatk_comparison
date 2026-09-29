@@ -1,3 +1,6 @@
+#Where $1 is the sample ID
+#with BWA installed
+
 REF=GRCh38_full_analysis_set_plus_decoy_hla.fa
 DBSITES=common_dbsnp_151.hg38.vcf
 bwa mem \
